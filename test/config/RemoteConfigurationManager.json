@@ -1,0 +1,1 @@
+{"applicationName":"application-name","timeInterval":10000,"timeout":5000,"remoteConfigurationUrl":"http://localhost:8901/ConfigVersionHandler","localConfigurationFolder":"/Users/zhigang/workspace/nevermore/nevermore_framework/data/test/config","checkRemoteConfig":true}

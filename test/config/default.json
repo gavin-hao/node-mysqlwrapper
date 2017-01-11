@@ -1,0 +1,31 @@
+{
+    "dbconnections": [
+        {
+            "name": "roshan_sports",
+            "connectionLimit": 10,
+            "host": "localhost",
+            "user": "root",
+            "password": "hzg123456Aa",
+            "database": "roshan_sports",
+            "port": 3306,
+            "charset": "utf8_general_ci",
+            "connectTimeout": 100000,
+            "supportBigNumbers": true,
+            "debug": true
+        },
+        {
+            "name": "roshan_order",
+            "connectionLimit": 5,
+            "host": "localhost",
+            "user": "root",
+            "password": "hzg123456Aa",
+            "database": "roshan_sports",
+            "port": 3306,
+            "charset": "utf8_general_ci",
+            "connectTimeout": 100000,
+            "supportBigNumbers": true,
+            "debug": true
+        }
+    ]
+
+}

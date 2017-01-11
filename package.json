@@ -1,0 +1,15 @@
+{
+    "name": "roshan-mysql",
+    "author": {
+        "name": "Hao Zhigang"
+    },
+    "description": "Configuration control for production node deployments,auto reload config object when config file changed",
+    "version": "0.0.1",
+    "main": "./index.js",
+    "_id": "roshan-mysql@0.0.1",
+    "_from": "roshan-mysql@*",
+    "dependencies":{
+        "mysql":"*",
+        "lodash":"*"
+    }
+}
